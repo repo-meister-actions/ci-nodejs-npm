@@ -34,7 +34,7 @@ jobs:
     uses: repo-meister-actions/nodejs-yarn/.github/workflows/ci.yml@main
 ```
 
-Example repository using this workflow: [repo-meister-actions/nodejs-yarn-example](https://github.com/repo-meister-actions/nodejs-yarn-example/blob/main/.github/workflows/main.yml)
+Example repository using this workflow: [repo-meister-actions/nodejs-npm-example](https://github.com/repo-meister-actions/nodejs-npm-example/blob/main/.github/workflows/main.yml)
 
 ## Action usage example
 
@@ -54,4 +54,4 @@ jobs:
       - uses: repo-meister-actions/nodejs-yarn@main
 ```
 
-Example repository using this action: [repo-meister-actions/nodejs-yarn-example](https://github.com/repo-meister-actions/nodejs-yarn-example/blob/main/.github/workflows/main-action.yml)
+Example repository using this action: [repo-meister-actions/nodejs-npm-example](https://github.com/repo-meister-actions/nodejs-npm-example/blob/main/.github/workflows/main-action.yml)
